@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+evaluation.png
+data/
+.claude/
+CLAUDE.md
